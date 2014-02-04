@@ -4,7 +4,7 @@ Just a test *repository*.
 
 Notice use of git flavored markdown here.
 
-Enumeratd list:
+Enumerated list:
 
 1. apple
 
